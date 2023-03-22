@@ -1,10 +1,10 @@
 Olá, eu sou Junior!
 
-''' python
+``` python
 class Programmer
 
 	def initialize() 
-'''
+```
 
 <!--
 **Juninhodm/Juninhodm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
