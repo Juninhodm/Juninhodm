@@ -9,7 +9,8 @@ class Programmer
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-junior-381b911ab/" target="_blank"><img align="center" src="https://github.com/Juninhodm/Juninhodm/blob/main/linkedin.png?raw=true" alt="Junior" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/_jrdm10/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="Junior" height="30" width="40"/></a>
+    <a href="https://www.instagram.com/_jrdm10/" target="_blank"><img align="center" src="https://github.com/Juninhodm/Juninhodm/blob/main/instagram.png?raw=true" alt="Junior" height="30" width="40"/></a>
+    <a href="https://www.facebook.com/juninhor1/" target="_blank"><img align="center" src="https://github.com/Juninhodm/Juninhodm/blob/main/instagram.png?raw=true" alt="Junior" height="30" width="40"/></a>
     </p>
 
 
