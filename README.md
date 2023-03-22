@@ -1,10 +1,17 @@
-Olá, eu sou Junior!
+#Olá, eu sou Junior!
 
 ``` python
 class Programmer
 
 	def initialize() 
 ```
+
+<p align="left">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-batista-junior-381b911ab/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+    </p>
+
+
 
 <!--
 **Juninhodm/Juninhodm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
