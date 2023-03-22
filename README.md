@@ -1,4 +1,4 @@
-# Olá, eu sou Junior!
+# Olá, me chamo Junior! 
 
 ``` python
 class Programmer
